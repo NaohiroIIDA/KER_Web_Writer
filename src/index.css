@@ -1,0 +1,28 @@
+:root {
+  font-family: 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.45;
+  font-weight: 400;
+  color: #1f2d3a;
+  background:
+    radial-gradient(circle at 10% 10%, #f2f8ef 0%, transparent 30%),
+    radial-gradient(circle at 90% 20%, #ecf5ff 0%, transparent 34%),
+    linear-gradient(180deg, #f6fbf6 0%, #f5f7fa 100%);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100svh;
+}
+
+a {
+  color: inherit;
+}
