@@ -1,5 +1,7 @@
 # KER Writer on Web
 
+Open [http://localhost:5173](https://naohiroiida.github.io/KER_Web_Writer/) in Chrome.
+
 Chrome browser app for AVR Tiny1616 programming workflow.
 
 ## Scope (current)
